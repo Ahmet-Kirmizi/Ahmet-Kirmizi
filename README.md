@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Kirmizi&layout=compact&theme=tokyonight&hide_border=true", width="335"> <br>
-</p>
+As an 18-year-old junior software developer with a passion for full-stack development, I gained valuable experience during a two-month internship at FurtherSoft Software in Nicosia, Cyprus, where I worked as a full-stack developer intern. My current focus is on honing my skills in the Vue, Nuxt, Laravel and Node.js ecosystem, and I am excited to bring my enthusiasm and expertise to new challenges and opportunities.
